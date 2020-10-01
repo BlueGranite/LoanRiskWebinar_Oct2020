@@ -3,7 +3,7 @@
 Resources from the BlueGranite Loan Risk Analysis Webinar
 
 <p align="right"><img src="https://raw.githubusercontent.com/BlueGranite/GenomicsWebinar_Aug2020/master/img/bg_logo.png" width="200px"></p>
-<h3 align="right">Jon Gore, Tom Weinandy, and Colby T. Ford, Ph.D.</h3>
+<h3 align="right">Jon Gore, Thomas J. Weinandy, and Colby T. Ford, Ph.D.</h3>
 <h4 align="right">October 21, 2020</h4>
 
 ## In Case You Missed It...
