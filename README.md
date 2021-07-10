@@ -7,7 +7,8 @@ Resources from the BlueGranite Loan Risk Analysis Webinar
 <h4 align="right">October 21, 2020</h4>
 
 ## In Case You Missed It...
-Watch the webinar recording on YouTube here: (Link Coming Soon...)
+Watch the webinar recording on YouTube here: https://www.youtube.com/watch?v=AUvHD1kF6eI
+And check out the accompanying blog post: https://www.bluegranite.com/blog/take-back-your-data-to-gain-a-competitive-advantage
 
 ## Useful Links:
 - Azure Databricks: https://azure.microsoft.com/en-us/services/databricks/
